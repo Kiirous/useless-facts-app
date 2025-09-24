@@ -57,4 +57,4 @@ Este é um app **experimental e educativo**, idealizado para estudar boas práti
 
 ---
 
-Feito com 💙 por [Seu Nome Aqui]
+Feito com 💙 por Marcos Bergamasco
