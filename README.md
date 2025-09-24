@@ -51,10 +51,6 @@ flutter run
 
 > Obs: é necessário ter o Flutter instalado. Saiba mais em [flutter.dev](https://flutter.dev).
 
-## 📸 Capturas de Tela
-
-(Adicione aqui prints do app em modo claro e escuro, se quiser)
-
 ## 🧪 Objetivo do projeto
 
 Este é um app **experimental e educativo**, idealizado para estudar boas práticas com Flutter e explorar o uso de pacotes úteis em um cenário real. Ele serve como base para projetos maiores com múltiplas features, temas e internacionalização.
